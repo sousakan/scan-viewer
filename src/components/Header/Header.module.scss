@@ -1,0 +1,28 @@
+.header {
+  padding: 30px;
+}
+
+.header__link {
+  text-decoration: none;
+}
+
+.header__logo {
+  width: 32px;
+  height: 32px;
+  display: inline-block;
+
+  margin-right: 15px;
+}
+
+.header__text {
+  font-size: 24px;
+  font-weight: 400;
+}
+
+.header__dark {
+  color: #015c92;
+}
+
+.header__light {
+  color: #2d82b5;
+}

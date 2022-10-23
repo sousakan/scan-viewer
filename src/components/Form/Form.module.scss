@@ -1,0 +1,25 @@
+.form__title {
+  font-size: 32px;
+  font-weight: 500;
+  color: #015c92;
+
+  margin-bottom: 20px;
+}
+
+.form__item {
+  margin-bottom: 20px;
+
+  &:last-of-type {
+    margin-bottom: 0;
+  }
+}
+
+.form__name {
+  display: block;
+  font-size: 16px;
+  font-weight: 400;
+  color: #015c92;
+
+  padding-left: 5px;
+  margin-bottom: 5px;
+}
